@@ -2,6 +2,9 @@
     list-style-type: none;
 }
 
+table {
+	color: white;
+}
 li.kecil {
 	font-size: 20pt;
 	margin-top: 10px;
