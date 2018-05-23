@@ -1,0 +1,8 @@
+.daftar-nama ul{
+    list-style-type: none;
+}
+
+li.kecil {
+	font-size: 20pt;
+	margin-top: 10px;
+}
